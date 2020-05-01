@@ -4,26 +4,26 @@ Gerente comercial: Giovanni Barboza Rizzardo
 
 ## Time Front-end:
 Líder:
-  Silas Eduardo
-  Samuel Leonel
-  Matheus Balbino
-  Matheus Torres
+ * Silas Eduardo
+ * Samuel Leonel
+ * Matheus Balbino
+ * Matheus Torres
 
 
 ## Time API's e Back-end:
 Líder: 
-  Caio Rocha
-  Pedro Martinez
-  Erick Leite
+ * Caio Rocha
+ * Pedro Martinez
+ * Erick Leite
   
 ## Time Banco de dados e integração:
 Líder:
-  Renato Kuramoto
-  Thais Bonifacio 
-  Fernando Leitão
+ * Renato Kuramoto
+ * Thais Bonifacio 
+ * Fernando Leitão
 
 ## Time Comercial:
 Líder: Giovanni Rizzardo
-  Allan Cardoso
-  Kevin Oliveira
-  Jhonatan Farias
+ * Allan Cardoso
+ * Kevin Oliveira
+ * Jhonatan Farias
