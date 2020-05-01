@@ -17,10 +17,9 @@ Líder:
  * Erick Leite
   
 ## Time Banco de dados e integração:
-Líder:
+Líder: Fernando Leitão
  * Renato Kuramoto
  * Thais Bonifacio 
- * Fernando Leitão
 
 ## Time Comercial:
 Líder: Giovanni Rizzardo
