@@ -23,7 +23,6 @@ Líder: Fernando Leitão
  * Murilo Novelo
 
 ## Time Comercial:
-Líder: Giovanni Rizzardo
- * Allan Cardoso
+Líder: Allan Cardoso
  * Kevin Oliveira
  * Jhonatan Farias
