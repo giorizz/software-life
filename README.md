@@ -2,7 +2,7 @@
 Grupo para AC 05 DEVAP
 &nbsp;
 Gerente comercial: Giovanni Barboza Rizzardo
-
+&nbsp;
 ## Time Front-end:
 Líder: Matheus Balbino
  * Silas Eduardo
