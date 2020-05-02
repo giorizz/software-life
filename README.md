@@ -1,8 +1,7 @@
 # software-life
-Grupo para AC 05 DEVAP
-&nbsp;
+Grupo para AC 05 DEVAP <br />
 Gerente comercial: Giovanni Barboza Rizzardo
-&nbsp;
+
 ## Time Front-end:
 Líder: Matheus Balbino
  * Silas Eduardo
