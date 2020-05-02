@@ -3,14 +3,14 @@ Grupo para AC 05 DEVAP
 Gerente comercial: Giovanni Barboza Rizzardo
 
 ## Time Front-end:
-Líder:
+Líder: Matheus Balbino
  * Silas Eduardo
  * Samuel Leonel
- * Matheus Balbino
  * Matheus Torres
+ * Mateus Mota
 
 ## Time API's e Back-end:
-Líder: 
+Líder: Victor Fernandes
  * Caio Rocha
  * Pedro Martinez
  * Erick Leite
@@ -19,6 +19,8 @@ Líder:
 Líder: Fernando Leitão
  * Renato Kuramoto
  * Thais Bonifacio 
+ * Matheus Tadeu
+ * Murilo Novelo
 
 ## Time Comercial:
 Líder: Giovanni Rizzardo
